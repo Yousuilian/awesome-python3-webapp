@@ -1,1 +1,1 @@
-This project is to study webapp development
+This project is to learn webapp development
